@@ -17,7 +17,7 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Dmitry-Dmitriev" => "biomans@mail.ru" }
 
 # 5 - Replace this URL with your own GitHub page's URL (from the address bar)
-s.homepage = "https://github.com/TheCodedSelf/RWPickFlavor"
+s.homepage = "https://github.com/Dmitry-Dmitriev/RWPickFlavor"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/Dmitry-Dmitriev/RWPickFlavor.git",
